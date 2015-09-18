@@ -1,0 +1,6 @@
+[15/06/25 17:04:16][ERROR][org.apache.hadoop.mrunit.internal.util.Errors-57] Missing expected output (1951, 22) at position 0, got (1950, 22).
+[15/06/25 17:08:43][ERROR][org.apache.hadoop.mrunit.internal.util.Errors-57] Missing expected output (1950, 221) at position 0, got (1950, 22).
+[15/06/25 17:16:48][ERROR][org.apache.hadoop.mrunit.internal.util.Errors-57] Missing expected output (1950, 44) at position 0, got (1950, 22).
+[15/06/25 17:17:08][ERROR][org.apache.hadoop.mrunit.internal.util.Errors-57] Missing expected output (1950, 44) at position 0, got (1950, -44).
+[15/06/25 17:17:36][ERROR][org.apache.hadoop.mrunit.internal.util.Errors-57] Missing expected output (1950, -44) at position 0, got (1950, 22).
+[15/06/25 17:19:01][ERROR][org.apache.hadoop.mrunit.internal.util.Errors-57] Missing expected output (1950, -44) at position 0, got (1950, 22).
